@@ -151,6 +151,7 @@ flowchart LR
     class CEC,SC,SCT,SB service
     class IM,WM,DP inventory
     class BOM,MRP,SRC,PROD,ITP,RFP production
+
 flowchart LR
    
     class COA,GLA,GLD,CA,JE,APAR,CM,REC,FR finance
